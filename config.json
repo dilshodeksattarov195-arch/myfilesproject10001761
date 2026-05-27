@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvalculate",
+        "uuid": 4060866,
+        "checksum": "q318es"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
